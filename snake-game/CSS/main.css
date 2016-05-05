@@ -1,0 +1,17 @@
+#game-container{
+    background-color: beige;
+    width: 800px; 
+    height: 500px;
+    margin-top: 5%;
+    margin-left: 18%;
+}
+.score-card-position{
+    position: absolute;
+    top: 8%;
+    left: 10%;
+    color: darkmagenta;
+    font-weight: 800;   
+}
+#score-card{
+    color: indianred;
+}
